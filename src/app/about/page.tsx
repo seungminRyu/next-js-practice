@@ -1,9 +1,6 @@
-import Seo from "@/components/Seo";
-
 function AboutPage() {
     return (
         <div>
-            <Seo title="About" />
             <h1>Next Movies 2024</h1>
             <p>
                 Supported by{" "}
